@@ -1,0 +1,23 @@
+/* Place custom css here. */
+.entry-content {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    margin: 0.6rem 0;
+}
+
+.custom-title {
+    font-family: "Bokor";
+    /* font-size: 2.25rem; */
+    margin-top: 0.25rem;
+    /* text-transform: uppercase; */
+}
+
+.custom-heading {
+    font-weight: 800;
+}
+
+.custom-article {
+    /* line-height: 1.65; */
+}

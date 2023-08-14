@@ -1,0 +1,7 @@
+baseURL = 'https://blog.javadhamidi.com/'
+languageCode = 'en-us'
+title = 'Javad Hamidi'
+theme = 'paper'
+
+[params]
+  github = 'javadhamidi'

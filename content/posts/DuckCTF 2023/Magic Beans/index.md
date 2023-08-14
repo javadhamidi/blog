@@ -49,7 +49,7 @@ Some trial-and-error tells us that columns a-w are valid. Substituting the conca
 
 ## Using sqlmap
 
-While we can totally craft our own payloads, using an automated tool can be far easier. [Sqlmap](https://sqlmap.org/) is awesome, and allows us to solve this challenge without knowing any of the hints given in the challenge description.
+While we can totally craft our own payloads, using an automated tool can be far easier. [Sqlmap](https://sqlmap.org/) is awesome, and allows us to solve this challenge without any of the hints given in the challenge description.
 
 Let's take this from the top. First, let's check if injection is possible. The following command specifies the URL, the form data (which is one search parameter), and states that we are making a POST request.
 

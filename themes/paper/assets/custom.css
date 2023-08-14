@@ -21,3 +21,7 @@
 .custom-article {
     /* line-height: 1.65; */
 }
+
+img {
+    margin: 2em auto;
+}
